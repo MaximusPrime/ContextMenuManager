@@ -15,14 +15,6 @@
 
 ---
 
-## 📌 Acknowledgements & Credits
-
-* Based on [Jack251970/ContextMenuManager](https://github.com/Jack251970/ContextMenuManager) by [Jack251970](https://github.com/Jack251970).
-* Originally created by [BluePointLilac](https://github.com/BluePointLilac) ([BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)).
-* New icon designs contributed by [LanYun2022](https://github.com/LanYun2022) and [KamilDev](https://github.com/KamilDev).
-
----
-
 ## ⭐ Key Features
 
 * **Enable / Disable Items:** Control right-click menu items for files, folders, background, SendTo, OpenWith, Win+X menu, and UWP apps.
@@ -55,6 +47,13 @@
 * **Security Software:** The program reads, writes, and modifies system registry entries. If Windows Defender or antivirus software flags these operations, add the application to your whitelist.
 * **Non-destructive Hiding:** Wherever possible, ContextMenuManager uses built-in system keys to hide items rather than deleting registry keys.
 * **Single Manager Recommendation:** Avoid using multiple context menu managers at the same time to prevent state conflicts.
+
+---
+
+## 🙏 Acknowledgements
+
+* Special thanks to [Jack251970](https://github.com/Jack251970) for [Jack251970/ContextMenuManager](https://github.com/Jack251970/ContextMenuManager).
+* Thanks to [LanYun2022](https://github.com/LanYun2022) and [KamilDev](https://github.com/KamilDev) for icon contributions.
 
 ---
 
