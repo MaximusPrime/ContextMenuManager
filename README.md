@@ -9,7 +9,7 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/MaximusPrime/ContextMenuManager?label=Release)](https://github.com/MaximusPrime/ContextMenuManager/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/MaximusPrime/ContextMenuManager?style=flat)](https://github.com/MaximusPrime/ContextMenuManager)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 </div>
 
@@ -60,4 +60,4 @@
 
 ## 📜 License
 
-Distributed under the [MIT License](LICENSE).
+Distributed under the [GNU General Public License v3.0](LICENSE).
